@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="TheDarkOverlord (1)" GUID="{9211c9e2-465d-44e6-8217-766753886a2c}" BaseGUID="{38474d7b-64a0-406d-84e9-f619f373831c}">
+  <Theme Name="The Dark Overlord" GUID="{9211c9e2-465d-44e6-8217-766753886a2c}" BaseGUID="{38474d7b-64a0-406d-84e9-f619f373831c}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FFCCCCCC" />
